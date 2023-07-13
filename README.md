@@ -19,6 +19,6 @@ No desafio foi feito a ativação da Secret Scene desse modelo já existente na 
 #
 ### Clique na imagem abaixo para visualizar o projeto online:
 
-<a href="https://sarahpossidonio.github.io/microgame-unity/" rel="nofollow">
+<a href="https://play.unity.com/mg/fps/webgl-builds-358596" rel="nofollow">
 <img src="https://media.discordapp.net/attachments/701319447431872543/1035243697039740968/5689103_03.png?width=925&height=473" width: 100%;">
 </a>
